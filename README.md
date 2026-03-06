@@ -26,3 +26,7 @@ Streamlit Run command
 ```
 streamlit run file.py
 ```
+Live Application
+```
+https://week3customer-churn-prediction-jlote8zfaymvkg4td85ktx.streamlit.app/
+```
