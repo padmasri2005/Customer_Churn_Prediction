@@ -1,4 +1,4 @@
-# Week3_Customer-Churn-Prediction
+# Customer_Churn_Prediction
 
 
 ### Software and tools Requirement
